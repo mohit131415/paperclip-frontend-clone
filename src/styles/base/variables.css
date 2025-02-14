@@ -1,0 +1,116 @@
+:root {
+    /* Colors */
+    --color-primary: #000000;
+    --color-primary-dark: #1a1a1a;
+    --color-secondary: #666666;
+  
+    /* Text Colors */
+    --color-text: #1a1a1a;
+    --color-text-secondary: #666666;
+    --color-heading: #000000;
+    --color-muted: #999999;
+  
+    /* Background Colors */
+    --color-background: #ffffff;
+    --color-background-secondary: #f5f5f5;
+    --color-background-tertiary: #fafafa;
+  
+    /* Border Colors */
+    --color-border: #e5e5e5;
+    --color-border-light: #f0f0f0;
+  
+    /* Status Colors */
+    --color-success: #10b981;
+    --color-error: #ef4444;
+    --color-warning: #f59e0b;
+    --color-info: #3b82f6;
+  
+    /* Spacing */
+    --spacing-1: 0.25rem; /* 4px */
+    --spacing-2: 0.5rem; /* 8px */
+    --spacing-3: 0.75rem; /* 12px */
+    --spacing-4: 1rem; /* 16px */
+    --spacing-5: 1.25rem; /* 20px */
+    --spacing-6: 1.5rem; /* 24px */
+    --spacing-8: 2rem; /* 32px */
+    --spacing-10: 2.5rem; /* 40px */
+    --spacing-12: 3rem; /* 48px */
+    --spacing-16: 4rem; /* 64px */
+  
+    /* Border Radius */
+    --radius-sm: 0.125rem; /* 2px */
+    --radius-md: 0.25rem; /* 4px */
+    --radius-lg: 0.5rem; /* 8px */
+    --radius-full: 9999px;
+  
+    /* Shadows */
+    --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+    --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+    --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+  
+    /* Z-index */
+    --z-dropdown: 1000;
+    --z-sticky: 1020;
+    --z-fixed: 1030;
+    --z-modal: 1040;
+    --z-popover: 1050;
+    --z-tooltip: 1060;
+  
+    /* Transitions */
+    --transition-base: all 0.2s ease;
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  
+    /* Container */
+    --container-padding: 1rem;
+    --container-max-width: 80rem; /* 1280px */
+  
+    /* Header */
+    --header-height: 5rem; /* 80px */
+    --header-border: 1px solid var(--color-border);
+  
+    /* Navigation */
+    --nav-item-spacing: 2rem;
+    --nav-height: 3.5rem; /* 56px */
+  
+    /* Forms */
+    --input-height: 2.5rem; /* 40px */
+    --input-padding: 0.75rem;
+    --input-border: 1px solid var(--color-border);
+    --input-radius: var(--radius-md);
+  
+    /* Buttons */
+    --button-padding-x: 1rem;
+    --button-padding-y: 0.5rem;
+    --button-radius: var(--radius-md);
+  
+    /* Cards */
+    --card-padding: 1.5rem;
+    --card-radius: var(--radius-lg);
+    --card-border: 1px solid var(--color-border);
+    --card-shadow: var(--shadow-md);
+  }
+  
+  /* Dark Mode Variables */
+  .dark {
+    --color-primary: #ffffff;
+    --color-primary-dark: #e5e5e5;
+    --color-secondary: #999999;
+  
+    --color-text: #e5e5e5;
+    --color-text-secondary: #999999;
+    --color-heading: #ffffff;
+    --color-muted: #666666;
+  
+    --color-background: #1a1a1a;
+    --color-background-secondary: #262626;
+    --color-background-tertiary: #333333;
+  
+    --color-border: #333333;
+    --color-border-light: #262626;
+  
+    --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.3);
+    --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.4), 0 2px 4px -2px rgb(0 0 0 / 0.4);
+    --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.4), 0 4px 6px -4px rgb(0 0 0 / 0.4);
+  }
+  
+  

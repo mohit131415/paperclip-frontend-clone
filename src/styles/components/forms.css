@@ -1,0 +1,96 @@
+/* Form Group */
+.form-group {
+    margin-bottom: var(--spacing-4);
+  }
+  
+  /* Form Label */
+  .form-label {
+    display: block;
+    margin-bottom: var(--spacing-2);
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--color-text);
+  }
+  
+  /* Form Input */
+  .form-input {
+    display: block;
+    width: 100%;
+    height: var(--input-height);
+    padding: 0 var(--input-padding);
+    font-size: 0.875rem;
+    line-height: 1.5;
+    color: var(--color-text);
+    background-color: var(--color-background);
+    border: var(--input-border);
+    border-radius: var(--input-radius);
+    transition: var(--transition-base);
+  }
+  
+  .form-input:focus {
+    outline: none;
+    border-color: var(--color-primary);
+    box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Form Textarea */
+  .form-textarea {
+    min-height: 100px;
+    resize: vertical;
+  }
+  
+  /* Form Select */
+  .form-select {
+    padding-right: 2.5rem;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='none' viewBox='0 0 24 24' stroke='currentColor'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M19 9l-7 7-7-7'%3E%3C/path%3E%3C/svg%3E");
+    background-position: right 0.75rem center;
+    background-repeat: no-repeat;
+    background-size: 1rem;
+    appearance: none;
+  }
+  
+  /* Form Checkbox & Radio */
+  .form-check {
+    display: flex;
+    align-items: center;
+    margin-bottom: var(--spacing-2);
+  }
+  
+  .form-check-input {
+    width: 1rem;
+    height: 1rem;
+    margin-right: var(--spacing-2);
+    border: var(--input-border);
+    border-radius: 2px;
+    transition: var(--transition-base);
+  }
+  
+  .form-check-input[type="radio"] {
+    border-radius: 50%;
+  }
+  
+  .form-check-label {
+    font-size: 0.875rem;
+    line-height: 1.5;
+  }
+  
+  /* Form Validation States */
+  .form-input--error {
+    border-color: var(--color-error);
+  }
+  
+  .form-error {
+    margin-top: var(--spacing-1);
+    font-size: 0.75rem;
+    color: var(--color-error);
+  }
+  
+  /* Search Input */
+  .search-input {
+    padding-left: 2.5rem;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='none' viewBox='0 0 24 24' stroke='currentColor'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z'%3E%3C/path%3E%3C/svg%3E");
+    background-position: 0.75rem center;
+    background-repeat: no-repeat;
+    background-size: 1rem;
+  }
+  

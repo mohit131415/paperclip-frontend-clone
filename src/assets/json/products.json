@@ -1,0 +1,382 @@
+{
+    "products": [
+      {
+        "id": "weekly-d1",
+        "name": "2025 Weekly Planner - Model D1",
+        "type": "Weekly Planner",
+        "description": "FSC Certified Wibalin Paper Cover, Natural Shade 80 GSM, 192 Pages",
+        "price": 695,
+        "dimensions": "A5, 148 x 210 mm (5.83 x 8.27 in.)",
+        "colors": [
+          {
+            "name": "Amethyst",
+            "code": "#5D2E8C"
+          },
+          {
+            "name": "BlueBerry",
+            "code": "#1B2B5B"
+          },
+          {
+            "name": "Claret",
+            "code": "#722F37"
+          },
+          {
+            "name": "Lilac",
+            "code": "#C8A2C8"
+          }
+        ],
+        "specifications": {
+          "code": "2025 Weekly Planner – D1",
+          "type": "Weekly Planner",
+          "cover": "Wibalin Finelinen or Buckram from Winter & Company, UK",
+          "insidePaper": "Natural Shade 80 GSM",
+          "binding": "Section Thread Bound with Hand Drawn Paper Back",
+          "fabrication": "Rounded Corners, a Bookmark and an Elastic Closure",
+          "pages": "192"
+        },
+        "images": [
+          "https://www.paperclipstore.in/cdn/shop/files/2025WeeklyPlanner-D11200x800.jpg?v=1719516543&width=360",
+          "https://www.paperclipstore.in/cdn/shop/files/myPaperclip_June_24_2.jpg?v=1722185708&width=493"
+        ],
+        "shipping": "FREE Shipping on prepaid orders above INR 995"
+      },
+      {
+        "id": "weekly-d2",
+        "name": "2025 Weekly Planner - Model D2",
+        "type": "Weekly Planner",
+        "description": "FSC Certified SUMO HARD COVER, Natural Shade 80 GSM, 192 Pages",
+        "price": 695,
+        "dimensions": "A5, 148 x 210 mm (5.83 x 8.27 in.)",
+        "colors": [
+          {
+            "name": "Black",
+            "code": "#000000"
+          },
+          {
+            "name": "Green",
+            "code": "#1B5B2F"
+          },
+          {
+            "name": "Orange",
+            "code": "#C85A17"
+          },
+          {
+            "name": "Red",
+            "code": "#AA0000"
+          }
+        ],
+        "specifications": {
+          "code": "2025 Weekly Planner – D2",
+          "type": "Weekly Planner",
+          "cover": "SUMO Hard Cover",
+          "insidePaper": "Natural Shade 80 GSM",
+          "binding": "Section Thread Bound with Hand Drawn Paper Back",
+          "fabrication": "Rounded Corners, a Bookmark and an Elastic Closure",
+          "pages": "192"
+        },
+        "images": [
+          "https://sjc.microlink.io/G0fYS_MG7uucQGJeMUdkhgTm3pgPQtgPQzl3VTlslFzvbhu6tD05ByHFDYmc6chxrJkICy0E4dnqRiWVHXLHqg.jpeg"
+        ]
+      },
+      {
+        "id": "weekly-r2",
+        "name": "2025 Weekly Planner - Model R2",
+        "type": "Weekly Planner",
+        "description": "ITALIAN VEGAN LEATHER COVER, Natural Shade 80 GSM, 192 Pages",
+        "price": 895,
+        "dimensions": "A5, 148 x 210 mm (5.83 x 8.27 in.)",
+        "colors": [
+          {
+            "name": "Black",
+            "code": "#000000"
+          },
+          {
+            "name": "Blue",
+            "code": "#1B2B5B"
+          },
+          {
+            "name": "Green",
+            "code": "#1B5B2F"
+          },
+          {
+            "name": "Red",
+            "code": "#AA0000"
+          },
+          {
+            "name": "Tan",
+            "code": "#D2B48C"
+          }
+        ],
+        "specifications": {
+          "code": "2025 Weekly Planner – R2",
+          "type": "Weekly Planner",
+          "cover": "Italian Vegan Leather",
+          "insidePaper": "Natural Shade 80 GSM",
+          "binding": "Section Thread Bound with Hand Drawn Paper Back",
+          "fabrication": "Rounded Corners, a Bookmark and an Elastic Closure",
+          "pages": "192"
+        },
+        "images": [
+          "https://sjc.microlink.io/G0fYS_MG7uucQGJeMUdkhgTm3pgPQtgPQzl3VTlslFzvbhu6tD05ByHFDYmc6chxrJkICy0E4dnqRiWVHXLHqg.jpeg"
+        ]
+      },
+      {
+        "id": "daily-m1",
+        "name": "2025 Daily Planner - Model M1",
+        "type": "Daily Planner",
+        "description": "FSC Certified Wibalin Paper Cover, Natural Shade 80 GSM, 384 Pages",
+        "price": 995,
+        "dimensions": "A5, 148 x 210 mm (5.83 x 8.27 in.)",
+        "colors": [
+          {
+            "name": "Aubergine",
+            "code": "#4F2F4F"
+          },
+          {
+            "name": "Claret",
+            "code": "#722F37"
+          },
+          {
+            "name": "Imperial",
+            "code": "#1B2B5B"
+          },
+          {
+            "name": "Lilac",
+            "code": "#C8A2C8"
+          }
+        ],
+        "specifications": {
+          "code": "2025 Daily Planner – M1",
+          "type": "Daily Planner",
+          "cover": "Wibalin Finelinen or Buckram from Winter & Company, UK",
+          "insidePaper": "Natural Shade 80 GSM",
+          "binding": "Section Thread Bound with Hand Drawn Paper Back",
+          "fabrication": "Rounded Corners, a Bookmark and an Elastic Closure",
+          "pages": "384"
+        },
+        "images": [
+          "https://sjc.microlink.io/G0fYS_MG7uucQGJeMUdkhgTm3pgPQtgPQzl3VTlslFzvbhu6tD05ByHFDYmc6chxrJkICy0E4dnqRiWVHXLHqg.jpeg"
+        ]
+      },
+      {
+        "id": "daily-m2",
+        "name": "2025 Daily Planner - Model M2",
+        "type": "Daily Planner",
+        "description": "ITALIAN VEGAN LEATHER COVER, Natural Shade 80 GSM, 384 Pages",
+        "price": 1195,
+        "dimensions": "A5, 148 x 210 mm (5.83 x 8.27 in.)",
+        "colors": [
+          {
+            "name": "Black",
+            "code": "#000000"
+          },
+          {
+            "name": "Blue",
+            "code": "#1B2B5B"
+          },
+          {
+            "name": "Green",
+            "code": "#1B5B2F"
+          },
+          {
+            "name": "Tan",
+            "code": "#D2B48C"
+          }
+        ],
+        "specifications": {
+          "code": "2025 Daily Planner – M2",
+          "type": "Daily Planner",
+          "cover": "Italian Vegan Leather",
+          "insidePaper": "Natural Shade 80 GSM",
+          "binding": "Section Thread Bound with Hand Drawn Paper Back",
+          "fabrication": "Rounded Corners, a Bookmark and an Elastic Closure",
+          "pages": "384"
+        },
+        "images": [
+          "https://sjc.microlink.io/G0fYS_MG7uucQGJeMUdkhgTm3pgPQtgPQzl3VTlslFzvbhu6tD05ByHFDYmc6chxrJkICy0E4dnqRiWVHXLHqg.jpeg"
+        ]
+      },
+      {
+        "id": "notebook-n1",
+        "name": "Classic Notebook - Model N1",
+        "type": "Notebook",
+        "description": "FSC Certified Wibalin Paper Cover, Natural Shade 80 GSM, 192 Pages",
+        "price": 495,
+        "dimensions": "A5, 148 x 210 mm (5.83 x 8.27 in.)",
+        "colors": [
+          {
+            "name": "Amethyst",
+            "code": "#5D2E8C"
+          },
+          {
+            "name": "Black",
+            "code": "#000000"
+          },
+          {
+            "name": "Navy",
+            "code": "#000080"
+          },
+          {
+            "name": "Red",
+            "code": "#AA0000"
+          }
+        ],
+        "specifications": {
+          "code": "Classic Notebook – N1",
+          "type": "Notebook",
+          "cover": "Wibalin Finelinen or Buckram from Winter & Company, UK",
+          "insidePaper": "Natural Shade 80 GSM",
+          "binding": "Section Thread Bound with Hand Drawn Paper Back",
+          "fabrication": "Rounded Corners, a Bookmark and an Elastic Closure",
+          "pages": "192"
+        },
+        "images": [
+          "https://sjc.microlink.io/G0fYS_MG7uucQGJeMUdkhgTm3pgPQtgPQzl3VTlslFzvbhu6tD05ByHFDYmc6chxrJkICy0E4dnqRiWVHXLHqg.jpeg"
+        ]
+      },
+      {
+        "id": "notebook-n2",
+        "name": "Premium Notebook - Model N2",
+        "type": "Notebook",
+        "description": "ITALIAN VEGAN LEATHER COVER, Natural Shade 80 GSM, 192 Pages",
+        "price": 695,
+        "dimensions": "A5, 148 x 210 mm (5.83 x 8.27 in.)",
+        "colors": [
+          {
+            "name": "Black",
+            "code": "#000000"
+          },
+          {
+            "name": "Brown",
+            "code": "#8B4513"
+          },
+          {
+            "name": "Green",
+            "code": "#1B5B2F"
+          },
+          {
+            "name": "Tan",
+            "code": "#D2B48C"
+          }
+        ],
+        "specifications": {
+          "code": "Premium Notebook – N2",
+          "type": "Notebook",
+          "cover": "Italian Vegan Leather",
+          "insidePaper": "Natural Shade 80 GSM",
+          "binding": "Section Thread Bound with Hand Drawn Paper Back",
+          "fabrication": "Rounded Corners, a Bookmark and an Elastic Closure",
+          "pages": "192"
+        },
+        "images": [
+          "https://sjc.microlink.io/G0fYS_MG7uucQGJeMUdkhgTm3pgPQtgPQzl3VTlslFzvbhu6tD05ByHFDYmc6chxrJkICy0E4dnqRiWVHXLHqg.jpeg"
+        ]
+      },
+      {
+        "id": "sketchbook-s1",
+        "name": "Artist Sketchbook - Model S1",
+        "type": "Sketchbook",
+        "description": "FSC Certified Wibalin Paper Cover, 160 GSM Drawing Paper, 96 Pages",
+        "price": 595,
+        "dimensions": "A5, 148 x 210 mm (5.83 x 8.27 in.)",
+        "colors": [
+          {
+            "name": "Black",
+            "code": "#000000"
+          },
+          {
+            "name": "Gray",
+            "code": "#808080"
+          },
+          {
+            "name": "Navy",
+            "code": "#000080"
+          }
+        ],
+        "specifications": {
+          "code": "Artist Sketchbook – S1",
+          "type": "Sketchbook",
+          "cover": "Wibalin Finelinen or Buckram from Winter & Company, UK",
+          "insidePaper": "160 GSM Drawing Paper",
+          "binding": "Section Thread Bound with Hand Drawn Paper Back",
+          "fabrication": "Rounded Corners, a Bookmark and an Elastic Closure",
+          "pages": "96"
+        },
+        "images": [
+          "https://sjc.microlink.io/G0fYS_MG7uucQGJeMUdkhgTm3pgPQtgPQzl3VTlslFzvbhu6tD05ByHFDYmc6chxrJkICy0E4dnqRiWVHXLHqg.jpeg"
+        ]
+      },
+      {
+        "id": "journal-j1",
+        "name": "Writing Journal - Model J1",
+        "type": "Journal",
+        "description": "FSC Certified Wibalin Paper Cover, Natural Shade 100 GSM, 160 Pages",
+        "price": 545,
+        "dimensions": "A5, 148 x 210 mm (5.83 x 8.27 in.)",
+        "colors": [
+          {
+            "name": "Burgundy",
+            "code": "#800020"
+          },
+          {
+            "name": "Forest",
+            "code": "#228B22"
+          },
+          {
+            "name": "Navy",
+            "code": "#000080"
+          },
+          {
+            "name": "Purple",
+            "code": "#800080"
+          }
+        ],
+        "specifications": {
+          "code": "Writing Journal – J1",
+          "type": "Journal",
+          "cover": "Wibalin Finelinen or Buckram from Winter & Company, UK",
+          "insidePaper": "Natural Shade 100 GSM",
+          "binding": "Section Thread Bound with Hand Drawn Paper Back",
+          "fabrication": "Rounded Corners, a Bookmark and an Elastic Closure",
+          "pages": "160"
+        },
+        "images": [
+          "https://sjc.microlink.io/G0fYS_MG7uucQGJeMUdkhgTm3pgPQtgPQzl3VTlslFzvbhu6tD05ByHFDYmc6chxrJkICy0E4dnqRiWVHXLHqg.jpeg"
+        ]
+      },
+      {
+        "id": "pocket-p1",
+        "name": "Pocket Notebook - Model P1",
+        "type": "Pocket Notebook",
+        "description": "FSC Certified Wibalin Paper Cover, Natural Shade 80 GSM, 96 Pages",
+        "price": 345,
+        "dimensions": "A6, 105 x 148 mm (4.13 x 5.83 in.)",
+        "colors": [
+          {
+            "name": "Black",
+            "code": "#000000"
+          },
+          {
+            "name": "Blue",
+            "code": "#1B2B5B"
+          },
+          {
+            "name": "Red",
+            "code": "#AA0000"
+          }
+        ],
+        "specifications": {
+          "code": "Pocket Notebook – P1",
+          "type": "Pocket Notebook",
+          "cover": "Wibalin Finelinen or Buckram from Winter & Company, UK",
+          "insidePaper": "Natural Shade 80 GSM",
+          "binding": "Section Thread Bound with Hand Drawn Paper Back",
+          "fabrication": "Rounded Corners and an Elastic Closure",
+          "pages": "96"
+        },
+        "images": [
+          "https://sjc.microlink.io/G0fYS_MG7uucQGJeMUdkhgTm3pgPQtgPQzl3VTlslFzvbhu6tD05ByHFDYmc6chxrJkICy0E4dnqRiWVHXLHqg.jpeg"
+        ]
+      }
+    ]
+  }

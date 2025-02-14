@@ -1,0 +1,102 @@
+/* Base Card */
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--color-background);
+    border: var(--card-border);
+    border-radius: var(--card-radius);
+    overflow: hidden;
+  }
+  
+  /* Card with Shadow */
+  .card--shadow {
+    box-shadow: var(--card-shadow);
+    border: none;
+  }
+  
+  /* Card Media */
+  .card__media {
+    position: relative;
+    padding-bottom: 100%; /* 1:1 Aspect Ratio */
+  }
+  
+  .card__media img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  /* Card Content */
+  .card__content {
+    padding: var(--card-padding);
+  }
+  
+  /* Card Header */
+  .card__header {
+    padding: var(--card-padding);
+    border-bottom: var(--card-border);
+  }
+  
+  /* Card Footer */
+  .card__footer {
+    padding: var(--card-padding);
+    border-top: var(--card-border);
+    margin-top: auto;
+  }
+  
+  /* Product Card Specific */
+  .product-card {
+    transition: var(--transition-smooth);
+  }
+  
+  .product-card:hover {
+    transform: translateY(-4px);
+  }
+  
+  .product-card__badge {
+    position: absolute;
+    top: var(--spacing-4);
+    left: var(--spacing-4);
+    padding: 0.25rem 0.5rem;
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: var(--color-background);
+    background-color: var(--color-primary);
+    border-radius: var(--radius-sm);
+    z-index: 1;
+  }
+  
+  .product-card__title {
+    margin-bottom: var(--spacing-2);
+    font-size: 0.875rem;
+    font-weight: 500;
+  }
+  
+  .product-card__price {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--color-primary);
+  }
+  
+  /* Blog Card Specific */
+  .blog-card__date {
+    font-size: 0.75rem;
+    color: var(--color-text-secondary);
+  }
+  
+  .blog-card__title {
+    margin: var(--spacing-2) 0;
+    font-size: 1.125rem;
+    font-weight: 600;
+  }
+  
+  .blog-card__excerpt {
+    font-size: 0.875rem;
+    color: var(--color-text-secondary);
+  }
+  
+  

@@ -1,0 +1,150 @@
+/* Container */
+.container {
+    width: 100%;
+    max-width: var(--container-max-width);
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: var(--container-padding);
+    padding-left: var(--container-padding);
+  }
+  
+  /* Grid System */
+  .grid {
+    display: grid;
+    gap: var(--spacing-6);
+  }
+  
+  .grid--2 {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  
+  @media (min-width: 640px) {
+    .grid--2 {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  
+  .grid--3 {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  
+  @media (min-width: 768px) {
+    .grid--3 {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+  
+  .grid--4 {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  
+  @media (min-width: 1024px) {
+    .grid--4 {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+  
+  /* Section */
+  .section {
+    padding: var(--spacing-16) 0;
+  }
+  
+  .section--sm {
+    padding: var(--spacing-8) 0;
+  }
+  
+  .section--lg {
+    padding: var(--spacing-24) 0;
+  }
+  
+  /* Header */
+  .header {
+    position: sticky;
+    top: 0;
+    z-index: var(--z-sticky);
+    height: var(--header-height);
+    background-color: var(--color-background);
+    border-bottom: var(--header-border);
+  }
+  
+  /* Footer */
+  .footer {
+    padding: var(--spacing-16) 0;
+    background-color: var(--color-background-secondary);
+  }
+  
+  /* Flex Utilities */
+  .flex {
+    display: flex;
+  }
+  
+  .flex-col {
+    flex-direction: column;
+  }
+  
+  .items-center {
+    align-items: center;
+  }
+  
+  .justify-between {
+    justify-content: space-between;
+  }
+  
+  .gap-4 {
+    gap: var(--spacing-4);
+  }
+  
+  /* Spacing Utilities */
+  .mt-4 {
+    margin-top: var(--spacing-4);
+  }
+  
+  .mb-4 {
+    margin-bottom: var(--spacing-4);
+  }
+  
+  .py-4 {
+    padding-top: var(--spacing-4);
+    padding-bottom: var(--spacing-4);
+  }
+  
+  .px-4 {
+    padding-left: var(--spacing-4);
+    padding-right: var(--spacing-4);
+  }
+  
+  /* Responsive Utilities */
+  @media (min-width: 640px) {
+    .sm\:flex {
+      display: flex;
+    }
+  }
+  
+  @media (min-width: 768px) {
+    .md\:grid-cols-2 {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  
+  @media (min-width: 1024px) {
+    .lg\:grid-cols-3 {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+  
+  /* Hide/Show Utilities */
+  .hidden {
+    display: none;
+  }
+  
+  @media (min-width: 768px) {
+    .md\:block {
+      display: block;
+    }
+  
+    .md\:hidden {
+      display: none;
+    }
+  }
+  
+  
